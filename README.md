@@ -1,6 +1,6 @@
-# Getting Started
+# CAP Node.js App Using SAP Business Application Studio
 
-Welcome to your new project.
+Welcome to the project created performing [SAP Tutorial](https://developers.sap.com/group.appstudio-cap-nodejs.html).
 
 It contains these folders and files, following our recommended project layout:
 
@@ -11,14 +11,6 @@ File or Folder | Purpose
 `srv/` | your service models and code go here
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
-
-
-## Next Steps
-
-- Open a new terminal and run `cds watch` 
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
 
 ## Learn More
 
