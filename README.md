@@ -2,7 +2,7 @@
 
 Welcome to the project created performing [SAP Tutorial](https://developers.sap.com/group.appstudio-cap-nodejs.html).
 
-It contains these folders and files, following our recommended project layout:
+It contains these folders and files, following the recommended project layout:
 
 File or Folder | Purpose
 ---------|----------
